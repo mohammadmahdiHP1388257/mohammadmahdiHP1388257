@@ -4,7 +4,7 @@
 </div>
 
 # 💫 About Me:
-just a Programmer✨
+Professional site designer✨
 
 
 # 💻 Tech Stack:
