@@ -2,6 +2,7 @@
   <img src="./upscalemedia-transformed.png" alt='File could not be uploaded.' width='350px' />
   <h1 style="color: blue;">😎Leave the programming to me.😉</h1>
 </div>
+
 # 💫 About Me:
 just a Programmer✨
 
