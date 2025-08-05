@@ -4,5 +4,5 @@
 </div>
 <hr>
 <h2>✨my skills:</h2>
-<img src='https://skillicons.dev/icons?i=js,git,html,nodejs,css,github,vscode,py,pycharm&perline=3' alt='File could not be uploaded.' />
+<img src='https://skillicons.dev/icons?i=js,git,html,nodejs,css,github,vscode,py,pycharm&perline=4' alt='File could not be uploaded.' />
 <hr>
