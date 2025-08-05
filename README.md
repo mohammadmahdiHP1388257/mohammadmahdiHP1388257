@@ -1,6 +1,6 @@
 <div align='center'>
   <img src="./upscalemedia-transformed.png" alt='File could not be uploaded.' width='350px' />
-  <h1 style="color: blue;">😎Programming with me😉</h1>
+  <h1 style="color: blue;">😎Leave the programming to me.😉</h1>
 </div>
 <hr>
 <h2>✨my skills:</h2>
