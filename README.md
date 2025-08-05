@@ -1,4 +1,4 @@
-<div aligan="center">
+<div aligan='center'>
   <img src="./Preview-removebg-preview.png" />
 
 </div>
